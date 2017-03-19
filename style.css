@@ -1,0 +1,85 @@
+﻿header {
+	width: 100%;
+	background-color:#ccccf5;
+}
+#log_in{
+	text-align: right;
+	font-size: 14px;
+	font-family: "Arial Narrow";
+}
+#log_in a{
+		text-decoration: none;
+		cursor: pointer;
+		color: black;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+#risk{
+	text-align: center;
+	font-size: 38px;
+	font-family: "Calisto MT";
+	border-bottom: 1px solid grey;
+	padding: 10px;
+}
+.nav{
+	text-align: center;
+	margin: 0 auto;
+	border-bottom: 1px solid grey;
+
+}
+.nav li{
+	list-style: none;
+	font-size: 20px;
+	padding: 10px;
+	display: inline-block;
+	text-transform: uppercase;
+}
+.nav li a{
+		text-decoration: none;
+		cursor: pointer;
+		color: black;
+}
+.nav li a:hover{
+
+	background: #749cce;
+}
+main{
+	background-color: #dee8f1;
+}
+.text{
+	font-size: 15px;
+	padding: 5px;
+    margin: 0px 0px 17px 0px;
+	line-height: 1.5;
+}
+table caption{
+	font-size: 20px;
+	text-transform: uppercase;
+}
+.tb{
+	border: :2px black;
+
+align-self: center;
+}
+tr{
+	border: :2px black;
+}
+#fname{
+
+}
+form textarea{
+text-align: right;
+}
+form {
+padding: 10px 0px;
+}
+
+.box{
+	width: 150px;
+	display: inline-block;
+}
+.inbox{
+	width: 160px;
+}
